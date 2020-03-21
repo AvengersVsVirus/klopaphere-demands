@@ -33,4 +33,4 @@ USER 1001
 
 WORKDIR /app
 
-CMD /app/hello
+CMD /app/service
