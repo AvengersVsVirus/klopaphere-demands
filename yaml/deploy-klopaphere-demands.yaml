@@ -173,7 +173,7 @@ parameters:
     displayName: Context Dir
     description: Context Dir
     value: 
-    required: true                
+    required: false                
   - name: SOURCE_REPOSITORY_REF
     displayName: Source Repository Reference Tag
     description: The Branch tag to use
